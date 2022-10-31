@@ -24,7 +24,7 @@ export class AppComponent {
     //     console.log(data);
     //   });
 
-    let promise = 
+    // let promise =
 
 
     }

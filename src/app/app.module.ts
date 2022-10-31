@@ -4,10 +4,12 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { RandomUserComponent } from './random-user/random-user.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    RandomUserComponent
   ],
   imports: [
     BrowserModule,
